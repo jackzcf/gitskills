@@ -1,2 +1,2 @@
 # gitskills
-ADD 1
+ADD 12
